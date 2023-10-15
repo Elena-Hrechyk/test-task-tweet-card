@@ -1,0 +1,98 @@
+[
+  {
+    "user": "Willie Bailey Jr.",
+    "tweets": 777,
+    "followers": 100500,
+    "avatar": "https://res.cloudinary.com/db633bc6x/image/upload/v1697265983/others/strange.jpg",
+    "id": "1",
+    "isFollowing": false
+  },
+  {
+    "user": "Anna Kuhn",
+    "tweets": 851,
+    "followers": 42051,
+    "avatar": "https://res.cloudinary.com/db633bc6x/image/upload/v1697265982/others/ironmangit.png",
+    "id": "2",
+    "isFollowing": false
+  },
+  {
+    "user": "Byron Jacobson",
+    "tweets": 639,
+    "followers": 60087,
+    "avatar": "https://res.cloudinary.com/db633bc6x/image/upload/v1697265980/others/hulk2.png",
+    "id": "3",
+    "isFollowing": false
+  },
+  {
+    "user": "Christopher Nicolas",
+    "tweets": 818,
+    "followers": 20159,
+    "avatar": "https://res.cloudinary.com/db633bc6x/image/upload/v1697265981/others/loki.jpg",
+    "id": "4",
+    "isFollowing": false
+  },
+  {
+    "user": "Wendell Schinner",
+    "tweets": 527,
+    "followers": 58003,
+    "avatar": "https://res.cloudinary.com/db633bc6x/image/upload/v1697265981/others/user1.png",
+    "id": "5",
+    "isFollowing": false
+  },
+  {
+    "user": "Gordon Hartmann",
+    "tweets": 929,
+    "followers": 6808,
+    "avatar": "https://res.cloudinary.com/db633bc6x/image/upload/v1697265980/others/batman.png",
+    "id": "6",
+    "isFollowing": false
+  },
+  {
+    "user": "Judy Sauer",
+    "tweets": 864,
+    "followers": 42960,
+    "avatar": "https://res.cloudinary.com/db633bc6x/image/upload/v1697265982/others/hulk.png",
+    "id": "7",
+    "isFollowing": false
+  },
+  {
+    "user": "Ms. Rachel Heller",
+    "tweets": 473,
+    "followers": 30751,
+    "avatar": "https://res.cloudinary.com/db633bc6x/image/upload/v1697265980/others/spiderman.jpg",
+    "id": "8",
+    "isFollowing": false
+  },
+  {
+    "user": "Jody Mante",
+    "tweets": 896,
+    "followers": 39795,
+    "avatar": "https://res.cloudinary.com/db633bc6x/image/upload/v1697265979/others/user2.png",
+    "id": "9",
+    "isFollowing": false
+  },
+  {
+    "user": "Bruce Torp Jr.",
+    "tweets": 707,
+    "followers": 51555,
+    "avatar": "https://res.cloudinary.com/db633bc6x/image/upload/v1697265978/others/captaina.jpg",
+    "id": "10",
+    "isFollowing": false
+  },
+  {
+    "user": "Miss Beulah Harvey",
+    "tweets": 390,
+    "followers": 94400,
+    "avatar": "https://res.cloudinary.com/db633bc6x/image/upload/v1697265978/others/ironman.jpg",
+    "id": "11",
+    "isFollowing": false
+  },
+  {
+    "user": "Meghan Cummings",
+    "tweets": 138,
+    "followers": 11904,
+    "avatar": "https://res.cloudinary.com/db633bc6x/image/upload/v1697265978/others/thor.jpg",
+    "id": "12",
+    "isFollowing": false
+  }
+]
