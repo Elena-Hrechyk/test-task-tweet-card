@@ -47,25 +47,25 @@
 ```json
 [
   {
-    'user': 'Willie Bailey Jr.',
-    'tweets': 777,
-    'followers': 100500,
-    'avatar':
+    user: 'Willie Bailey Jr.',
+    tweets: 777,
+    followers: 100500,
+    avatar:
       'https://res.cloudinary.com/db633bc6x/image/upload/v1697265983/others/strange.jpg',
-    'id': '1',
+    id: '1',
   },
   {
-    'user': 'Anna Kuhn',
-    'tweets': 851,
-    'followers': 42051,
-    'avatar':
+    user: 'Anna Kuhn',
+    tweets: 851,
+    followers: 42051,
+    avatar:
       'https://res.cloudinary.com/db633bc6x/image/upload/v1697265982/others/ironmangit.png',
-    'id': '2',
-  },
-];
+    id: '2',
+  }
+]
 ```
 
-[Макет:](https://www.figma.com/file/zun1oP6NmS2Lmgbcj6e1IG/Test?node-id=0%3A1&t=VoiYTfiXggVItgVd-1)
+[Макет](https://www.figma.com/file/zun1oP6NmS2Lmgbcj6e1IG/Test?node-id=0%3A1&t=VoiYTfiXggVItgVd-1)
 
 ### Додаткове завдання
 
