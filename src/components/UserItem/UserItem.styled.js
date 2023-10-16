@@ -1,4 +1,5 @@
 import styled from 'styled-components';
+import heroimg from '../../img/hero.png';
 
 export const ItemUser = styled.li`
   position: relative;
@@ -9,12 +10,11 @@ export const ItemUser = styled.li`
   padding-top: 178px;
   padding-bottom: 36px;
   border-radius: 20px;
-  background: linear-gradient(
-    115deg,
-    #471ca9 -0.99%,
-    #5736a3 54.28%,
-    #4b2a99 78.99%
-  );
+  background-color: #5736a3;
+  background-image: url(${heroimg});
+  background-size: 308px 168px;
+  background-repeat: no-repeat;
+  background-position: 36px 28px;
   box-shadow: -2.5777px 6.87386px 20.62157px 0px rgba(0, 0, 0, 0.23);
 `;
 
@@ -26,17 +26,6 @@ export const Logo = styled.a`
   z-index: 1;
 `;
 
-export const HeroImg = styled.img`
-  position: absolute;
-  width: 308px;
-  height: 168px;
-
-  top: 28px;
-  left: 36px;
-  margin-left: auto;
-  margin-top: auto;
-`;
-
 export const Avatar = styled.img`
   position: relative;
   margin-left: auto;
@@ -44,7 +33,7 @@ export const Avatar = styled.img`
   margin-bottom: 26px;
   width: 80px;
   height: 80px;
-  flex-shrink: 0;
+  object-fit: cover;
 
   border-radius: 62px;
   background-color: #5736a3;
