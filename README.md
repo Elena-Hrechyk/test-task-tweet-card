@@ -16,5 +16,5 @@ Tweets cards is a simple app. It has two pages: homepage and page wich tweet car
 2. If you push a button `Follow` or `Following` the numbers of followers will change
 3. Button status doesn't change when page is refreshed
 4. Button `Load more` load next three tweet cards
-5. You can use a filter if you onli want to see one type of tweet cards
+5. You can use a filter if you only want to see one type of tweet cards
 
