@@ -2,6 +2,8 @@
 
 Tweets cards is a simple app. It has two pages: homepage and page wich tweet cards. The backend is created using UI-service [mockapi.io](https://mockapi.io/).
 
+![Example:](https://res.cloudinary.com/db633bc6x/image/upload/v1698905102/others/example-tweet-app.jpg)
+
 # Technical stack
 
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
