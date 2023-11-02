@@ -1,7 +1,6 @@
 import Button from 'components/Button/Button';
 import logo from '../../img/logo.svg';
-import lineAvatar from '../../img/line.svg';
-import circleAvatar from '../../img/circle.svg';
+import defaultAvatar from '../../img/user.svg';
 
 import {
   ItemUser,
@@ -21,10 +20,13 @@ export const UserItem = ({ id, tweets, avatar, followers, isFollowing }) => {
       >
         <img src={logo} alt="Logotype" />
       </Logo>
+      <AvatarLine></AvatarLine>
 
-      <AvatarLine src={lineAvatar} alt="Decorative avatar's line" />
-      <Avatar src={avatar} alt="User's avatar" />
-      <AvatarCircle src={circleAvatar} alt="Decorative avatar's circle" />
+      <Avatar
+        src={avatar === '' ? defaultAvatar : avatar}
+        alt="User's avatar"
+      />
+      <AvatarCircle></AvatarCircle>
       <Button
         tweets={tweets}
         followers={followers}

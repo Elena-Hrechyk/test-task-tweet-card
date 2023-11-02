@@ -41,15 +41,29 @@ export const Avatar = styled.img`
   z-index: 1;
 `;
 
-export const AvatarLine = styled.img`
+export const AvatarLine = styled.div`
   position: absolute;
   top: 214px;
-  z-index: 0;
+  width: 100%;
+  height: 8px;
+
+  background-color: #ebd8ff;
+  box-shadow: 0px 3.43693px 2.5777px 0px #fbf8ff inset,
+    0px 3.43693px 3.43693px 0px rgba(0, 0, 0, 0.06),
+    0px -1.71846px 3.43693px 0px #ae7be3 inset;
 `;
 
-export const AvatarCircle = styled.img`
+export const AvatarCircle = styled.div`
   position: absolute;
   top: 179px;
-  left: 145px;
+  left: 150px;
   z-index: 2;
+
+  width: 80px;
+  height: 80px;
+  flex-shrink: 0;
+  border-radius: 50%;
+  fill: #ebd8ff;
+  box-shadow: 0px 4.39163px 3.29372px 0px #fbf8ff inset,
+    0px -2.19582px 4.39163px 0px #ae7be3 inset;
 `;

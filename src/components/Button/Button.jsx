@@ -10,7 +10,6 @@ import {
 const Button = ({ id, followers, tweets, onFollow }) => {
   const [followersCount, setFollowersCount] = useState(followers);
   const [isFollowing, setIsFollowin] = useState(onFollow);
-  // const [error, setError] = useState(null);
 
   const following = () => {
     setIsFollowin(true);
