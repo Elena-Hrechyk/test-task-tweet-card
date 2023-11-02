@@ -1,6 +1,6 @@
 # Tweet cards
 
-Tweets cards is simple app. It has two pages: homepage and page wich tweet cards. 
+Tweets cards is a simple app. It has two pages: homepage and page wich tweet cards. The backent is created using UI-service [mockapi.io](https://mockapi.io/).
 
 # Technical stack
 
